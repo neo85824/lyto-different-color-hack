@@ -10,6 +10,10 @@ Reach level 224 in the [Demo Video](https://www.youtube.com/watch?v=CdFYw9Id5cw)
 
 
 ## Installation
+Requirements
+* Python 3.7
+
+Use the following commands to install.
 ```
 pip install numpy
 pip install opencv-python
