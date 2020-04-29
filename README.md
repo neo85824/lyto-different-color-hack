@@ -1,9 +1,13 @@
-# Auto-Clicking for Lyto Different Color Game with OpenCV
+# Hacking for Lyto Different Color Game with OpenCV
 
 This is an simple project with Python and Opencv for auto-gaming on Lyto color game. The project is inspired by [kketernality](https://github.com/kketernality/LytoColorHack) and [OuYangMinOa
 ](https://github.com/OuYangMinOa/Lyto-Different-Color)
 
 ## Demo
+Reach level 224 in the [Demo Video](https://www.youtube.com/watch?v=CdFYw9Id5cw)
+
+![](https://i.imgur.com/jy4P5oO.jpg)
+
 
 ## Installation
 ```
